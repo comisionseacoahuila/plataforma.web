@@ -10,7 +10,7 @@ SITEDESCRIPTION = 'Comisión de Selección del SEA Coahuila'
 SITETWITTER = '@comselcc'
 
 # Autor
-AUTHOR = 'Webmaster'
+AUTHOR = 'webmaster'
 
 # Directorio donde esta el contenido
 PATH = 'content'
@@ -50,15 +50,15 @@ CATEGORIES_TITLES = {
     }
 
 # Usar el nombre del directorio como la categoría
-USE_FOLDER_AS_CATEGORY = False
+USE_FOLDER_AS_CATEGORY = True
 
 # Los artículos van en directorios por categoria/titulo/
-ARTICLE_URL = '{category}/{slug}/'
-ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
+ARTICLE_URL = '{category}/'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
 
 # Las páginas fijas van en directorios categoria/titulo/
-PAGE_URL = '{category}/{slug}/'
-PAGE_SAVE_AS = '{category}/{slug}/index.html'
+PAGE_URL = '{category}/'
+PAGE_SAVE_AS = '{category}/{slug}.html'
 
 # Tema
 THEME = 'themes/startbootstrap-agency'

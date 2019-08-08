@@ -3,7 +3,6 @@ Slug: quienes-somos
 Summary: .
 Date: 2019-08-07 12:44
 Modified: 2019-08-07 12:44
-Category: quienessomos
 
 
 ### Semblanzas

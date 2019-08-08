@@ -1,15 +1,35 @@
 /* comisionseacoahuila.css */
 
-#mainNav .navbar-brand {
-  color: #fed136;
-  font-family: 'Roboto Slab', Roboto, 'Helvetica Neue', Arial, sans-serif;
+a       { color: #db004c; }
+a:hover { color: #e62568; }
+
+#mainNav { background-color: #a0a0a0; }
+#mainNav .navbar-brand { color: #db004c; font-family: 'Roboto Slab', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+#mainNav.navbar-shrink { background-color: #808080; }
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover { color: #e62568; }
+#mainNav .navbar-toggler { background-color: #db004c; }
+
+header.masthead { background-image: url("../images/banner-museo.jpg"); }
+
+.article-header,
+.page-header {
+    padding-top: 160px;
+    padding-bottom: 4px;
+    background-color: #808080;
+    margin-bottom: 40px;
+}
+.page-header-title {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #decad1;
 }
 
-header.masthead {
-  background-image: url("../images/banner-museo.jpg");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
-}
+.quienes-somos-box { margin-bottom: 20px; }
+.quienes-somos-image { width: 160px; height: 160px; }
 
+.footer { margin-top: 40px; background-color: #e0e0e0; }
+.footer span.copyright { line-height: 1.5em; }
+
+ul.social-buttons li a:active,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:hover   { background-color: #e62568; }
