@@ -1,0 +1,15 @@
+/* comisionseacoahuila.css */
+
+#mainNav .navbar-brand {
+  color: #fed136;
+  font-family: 'Roboto Slab', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+header.masthead {
+  background-image: url("../images/banner-museo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
