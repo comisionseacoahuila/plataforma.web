@@ -4,32 +4,27 @@
 
 {% block content %}
 {% if output_file == 'index.html' %}
-    {% include 'start-page-header.html' %}
-    {% include 'start-page-quienes-somos.html' %}
+{%     include 'start-page-header.html' %}
+{%     include 'start-page-quienes-somos.html' %}
+{%     include 'start-page-documentacion.html' %}
 {% endif %}
-<section>
+{% if articles %}
+<section id="saladeprensa">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Categorías</h2>
+                <h2 class="section-heading text-uppercase">Sala de Prensa</h2>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
-{% if articles %}
-                <section>
-                    <h2>TITULO</h2>
-{%   for article in articles_page.object_list %}
+{% for article in articles_page.object_list %}
                     <h3 class="index-article-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
 {{ article.summary }}
-{%   endfor %}
-                </section>
-{% endif %}
+{% endfor %}
             </div>
         </div>
     </div>
 </section>
-{% if output_file == 'index.html' %}
-    {% include 'start-page-contact.html' %}
 {% endif %}
 {% endblock %}

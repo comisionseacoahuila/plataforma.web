@@ -9,6 +9,10 @@ a:hover { color: #e62568; }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover { color: #e62568; }
 #mainNav .navbar-toggler { background-color: #db004c; }
 
+.text-primary {
+  color: #db004c !important;
+}
+
 header.masthead { background-image: url("../images/banner-museo.jpg"); }
 
 .article-header,
@@ -23,6 +27,9 @@ header.masthead { background-image: url("../images/banner-museo.jpg"); }
     padding-bottom: 20px;
     background-color: #decad1;
 }
+
+#quienessomos { background-color: #fff; }
+#documentacion { background-color: #ddd; }
 
 .quienes-somos-box { margin-bottom: 20px; }
 .quienes-somos-image { width: 160px; height: 160px; }

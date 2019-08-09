@@ -3,7 +3,6 @@ Slug: 2018-minutas
 Summary: .
 Date: 2019-08-07 12:48
 Modified: 2019-08-07 12:48
-Tags: minutas
 
 
 ### Minutas 2018

@@ -16,10 +16,10 @@ AUTHOR = 'webmaster'
 PATH = 'content'
 
 # Directorios que tienen los articulos
-ARTICLE_PATHS = ['procesos', 'sala-de-prensa']
+ARTICLE_PATHS = ['sala-de-prensa']
 
 # Directorios que tienen páginas fijas, no artículos
-PAGE_PATHS = ['3de3', 'documentacion', 'quienes-somos']
+PAGE_PATHS = ['3de3', 'documentacion', 'procesos', 'quienes-somos']
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
@@ -38,27 +38,22 @@ STATIC_PATHS = [
 # Encabezados para las categorías
 CATEGORIES_TITLES = {
     '3de3': '3 de 3',
-    'calendarios': 'Calendarios',
-    'comunicados': 'Comunicados',
-    'dictamenes': 'Dictámenes',
-    'expedientes': 'Expedientes',
-    'minutas': 'Minutas',
-    'noticias': 'Noticias',
-    'quienessomos': 'Quienes somos',
-    'periodico oficial': 'Periódico Oficial',
+    'documentacion': 'Documentación',
     'procesos': 'Procesos',
+    'quienessomos': 'Quienes somos',
+    'sala-de-prensa': 'Sala de Prensa',
     }
 
 # Usar el nombre del directorio como la categoría
 USE_FOLDER_AS_CATEGORY = True
 
-# Los artículos van en directorios por categoria/titulo/
-ARTICLE_URL = '{category}/'
-ARTICLE_SAVE_AS = '{category}/{slug}.html'
+# Los artículos van en directorios categoria/titulo/
+ARTICLE_URL = '{category}/{slug}/'
+ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 
 # Las páginas fijas van en directorios categoria/titulo/
-PAGE_URL = '{category}/'
-PAGE_SAVE_AS = '{category}/{slug}.html'
+PAGE_URL = '{category}/{slug}/'
+PAGE_SAVE_AS = '{category}/{slug}/index.html'
 
 # Tema
 THEME = 'themes/startbootstrap-agency'
