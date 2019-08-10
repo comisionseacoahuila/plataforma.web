@@ -5,15 +5,25 @@ a:hover { color: #e62568; }
 
 #mainNav { background-color: #a0a0a0; }
 #mainNav .navbar-brand { color: #db004c; font-family: 'Roboto Slab', Roboto, 'Helvetica Neue', Arial, sans-serif; }
-#mainNav.navbar-shrink { background-color: #808080; }
-#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover { color: #e62568; }
+#mainNav.navbar-shrink { background-color: #a0a0a0; }
+#mainNav .navbar-nav .nav-item .nav-link.active,
+#mainNav .navbar-nav .nav-item .nav-link:hover { color: #e62568; }
 #mainNav .navbar-toggler { background-color: #db004c; }
 
-.text-primary {
-  color: #db004c !important;
+@media (min-width: 992px) {
+    #mainNav { background-color: transparent; }
 }
 
+.text-primary { color: #db004c !important; }
+
 header.masthead { background-image: url("../images/banner-museo.jpg"); }
+header.masthead .intro-text .intro-lead-in { font-size: 32px; }
+header.masthead .intro-text .intro-heading { font-size: 48px; }
+
+.btn-primary { background-color: #bc3463 !important; border-color: #bc3463 !important; }
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover { background-color: #e62568 !important; border-color: #e62568 !important; }
 
 .article-header,
 .page-header {
@@ -28,6 +38,7 @@ header.masthead { background-image: url("../images/banner-museo.jpg"); }
     background-color: #decad1;
 }
 
+#calendario { background-color: #f6e7ec; }
 #quienessomos { background-color: #fff; }
 #documentacion { background-color: #ddd; }
 
@@ -40,3 +51,28 @@ header.masthead { background-image: url("../images/banner-museo.jpg"); }
 ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover   { background-color: #e62568; }
+
+/* Responsive */
+@media only screen and (max-width: 990px) {
+    header.masthead .intro-text .intro-lead-in { font-size: 24px; }
+    header.masthead .intro-text .intro-heading { font-size: 36px; }
+    .page-section h2.section-heading { font-size: 32px; }
+}
+@media only screen and (max-width: 580px) {
+    header.masthead .intro-text .intro-lead-in { font-size: 16px; }
+    header.masthead .intro-text .intro-heading { font-size: 24px; }
+    .page-section h2.section-heading { font-size: 24px; }
+}
+@media only screen and (max-width: 300px) {
+    header.masthead .intro-text .intro-lead-in { font-size: 12px; }
+    header.masthead .intro-text .intro-heading { font-size: 18px; }
+    .page-section h2.section-heading { font-size: 16px; }
+}
+
+::-moz-selection {
+  background: #fcc0d5;
+}
+
+::selection {
+  background: #fcc0d5;
+}

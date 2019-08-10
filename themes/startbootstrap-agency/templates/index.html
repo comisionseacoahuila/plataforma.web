@@ -5,11 +5,12 @@
 {% block content %}
 {% if output_file == 'index.html' %}
 {%     include 'start-page-header.html' %}
+{%     include 'start-page-calendario-2019.html' %}
 {%     include 'start-page-quienes-somos.html' %}
 {%     include 'start-page-documentacion.html' %}
 {% endif %}
 {% if articles %}
-<section id="saladeprensa">
+<section class="page-section" id="saladeprensa">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -19,7 +20,7 @@
         <div class="row">
             <div class="col-lg-12">
 {% for article in articles_page.object_list %}
-                    <h3 class="index-article-title"><a href="/{{ article.url }}">{{ article.title }}</a></h3>
+                    <h4><a href="/{{ article.url }}">{{ article.title }}</a></h4>
 {{ article.summary }}
 {% endfor %}
             </div>
