@@ -1,6 +1,6 @@
 Title: C. Sergio Fernando Alanís Ortega
 Slug: sergio-fernando-alanis-ortega
-Summary: .
+Summary: C. Sergio Fernando Alanís Ortega.
 Date: 2019-08-08 10:16
 Modified: 2019-08-08 10:16
 

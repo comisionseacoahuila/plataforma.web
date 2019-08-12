@@ -1,6 +1,6 @@
 Title: C. Ana Cecilia Mata Rodríguez
 Slug: ana-cecilia-mata-rodriguez
-Summary: .
+Summary: C. Ana Cecilia Mata Rodríguez.
 Date: 2019-08-08 10:00
 Modified: 2019-08-08 10:00
 

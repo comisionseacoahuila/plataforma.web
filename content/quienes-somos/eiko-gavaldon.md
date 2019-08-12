@@ -1,6 +1,6 @@
 Title: C. Eiko Gavaldon
 Slug: eiko-gavaldon
-Summary: .
+Summary: C. Eiko Gavaldon.
 Date: 2019-08-08 10:04
 Modified: 2019-08-08 10:04
 

@@ -1,6 +1,6 @@
 Title: C. Luis Fernando García Abusaíd
 Slug: luis-fernando-garcia-abusaid
-Summary: .
+Summary: C. Luis Fernando García Abusaíd.
 Date: 2019-08-08 10:14
 Modified: 2019-08-08 10:14
 

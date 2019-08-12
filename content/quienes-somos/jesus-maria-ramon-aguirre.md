@@ -1,6 +1,6 @@
 Title: C. Jesús María Ramon Aguirre
 Slug: jesus-maria-ramon-aguirre
-Summary: .
+Summary: C. Jesús María Ramon Aguirre.
 Date: 2019-08-08 10:10
 Modified: 2019-08-08 10:10
 

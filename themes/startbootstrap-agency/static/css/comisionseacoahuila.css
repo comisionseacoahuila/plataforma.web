@@ -6,12 +6,13 @@ a:hover { color: #e62568; }
 #mainNav { background-color: #a0a0a0; }
 #mainNav .navbar-brand { color: #db004c; font-family: 'Roboto Slab', Roboto, 'Helvetica Neue', Arial, sans-serif; }
 #mainNav.navbar-shrink { background-color: #a0a0a0; }
+#mainNav .navbar-nav .nav-item .nav-link { font-weight: 600; }
 #mainNav .navbar-nav .nav-item .nav-link.active,
 #mainNav .navbar-nav .nav-item .nav-link:hover { color: #e62568; }
 #mainNav .navbar-toggler { background-color: #db004c; }
 
 @media (min-width: 992px) {
-    #mainNav { background-color: transparent; }
+    #mainNav { background-color: rgb(128,128,128,0.5); /* background-color: transparent; */ }
 }
 
 .text-primary { color: #db004c !important; }
@@ -38,9 +39,10 @@ header.masthead .intro-text .intro-heading { font-size: 48px; }
     background-color: #decad1;
 }
 
-#calendario { background-color: #f6e7ec; }
 #quienessomos { background-color: #fff; }
+#calendario { background-color: #f6e7ec; }
 #documentacion { background-color: #ddd; }
+#procesos { background-color: #f6e7ec; }
 
 .quienes-somos-box { margin-bottom: 20px; }
 .quienes-somos-image { width: 160px; height: 160px; }
@@ -52,21 +54,35 @@ ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover   { background-color: #e62568; }
 
+.page-section h2.section-heading { font-size: 28px; }
+h3.service-heading { font-size: 24px; }
+h4.service-heading { font-size: 20px; }
+h5.service-heading { font-size: 16px; }
+
 /* Responsive */
 @media only screen and (max-width: 990px) {
-    header.masthead .intro-text .intro-lead-in { font-size: 24px; }
-    header.masthead .intro-text .intro-heading { font-size: 36px; }
-    .page-section h2.section-heading { font-size: 32px; }
-}
-@media only screen and (max-width: 580px) {
     header.masthead .intro-text .intro-lead-in { font-size: 16px; }
     header.masthead .intro-text .intro-heading { font-size: 24px; }
     .page-section h2.section-heading { font-size: 24px; }
+    h3.service-heading { font-size: 18px; }
+    h4.service-heading { font-size: 16px; }
+    h5.service-heading { font-size: 14px; }
+}
+@media only screen and (max-width: 580px) {
+    header.masthead .intro-text .intro-lead-in { font-size: 14px; }
+    header.masthead .intro-text .intro-heading { font-size: 20px; }
+    .page-section h2.section-heading { font-size: 20px; }
+    h3.service-heading { font-size: 16px; }
+    h4.service-heading { font-size: 14px; }
+    h5.service-heading { font-size: 12px; }
 }
 @media only screen and (max-width: 300px) {
     header.masthead .intro-text .intro-lead-in { font-size: 12px; }
-    header.masthead .intro-text .intro-heading { font-size: 18px; }
+    header.masthead .intro-text .intro-heading { font-size: 16px; }
     .page-section h2.section-heading { font-size: 16px; }
+    h3.service-heading { font-size: 13px; }
+    h4.service-heading { font-size: 12px; }
+    h5.service-heading { font-size: 11px; }
 }
 
 ::-moz-selection {

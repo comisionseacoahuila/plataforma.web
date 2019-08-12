@@ -1,6 +1,6 @@
 Title: Periódico Oficial
 Slug: periodico-oficial
-Summary: .
+Summary: Periódico Oficial.
 Date: 2019-08-09 08:56
 Modified: 2019-08-09 08:56
 

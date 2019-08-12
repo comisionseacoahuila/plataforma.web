@@ -1,6 +1,6 @@
 Title: C. Carlos Alberto Arredondo Sibaja
 Slug: carlos-alberto-arredondo-sibaja
-Summary: C. Carlos Alberto Arredondo Sibaja
+Summary: C. Carlos Alberto Arredondo Sibaja.
 Date: 2019-08-08 10:02
 Modified: 2019-08-08 10:02
 

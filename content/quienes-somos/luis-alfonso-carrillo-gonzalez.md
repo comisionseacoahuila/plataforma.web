@@ -1,6 +1,6 @@
 Title: C. Luis Alfonso Carrillo González
 Slug: luis-alfonso-carrillo-gonzalez
-Summary: .
+Summary: C. Luis Alfonso Carrillo González.
 Date: 2019-08-08 10:12
 Modified: 2019-08-08 10:12
 

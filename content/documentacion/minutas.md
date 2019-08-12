@@ -1,6 +1,6 @@
 Title: Minutas
 Slug: minutas
-Summary: .
+Summary: Minutas.
 Date: 2019-08-09 08:54
 Modified: 2019-08-09 08:54
 

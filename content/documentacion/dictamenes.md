@@ -1,6 +1,6 @@
 Title: Dictámenes
 Slug: dictamenes
-Summary: .
+Summary: Dictámenes.
 Date: 2019-08-09 08:58
 Modified: 2019-08-09 08:58
 
