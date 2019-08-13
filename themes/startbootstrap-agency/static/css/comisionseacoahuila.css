@@ -1,23 +1,27 @@
 /* comisionseacoahuila.css */
 
-a       { color: #db004c; }
+h1 { font-size: 32px; }
+h2 { font-size: 28px; }
+h3 { font-size: 24px; }
+h4 { font-size: 20px; }
+h5 { font-size: 16px; }
+
+a { color: #db004c; }
 a:hover { color: #e62568; }
 
-#mainNav { background-color: #a0a0a0; }
+#mainNav { background-color: rgb(176,134,152,0.5); }
+#mainNav.navbar-shrink { background-color: rgb(160,160,160,1.0); }
+
+#mainNav { padding-top: 12px; padding-bottom: 12px; }
 #mainNav .navbar-brand { color: #db004c; font-family: 'Roboto Slab', Roboto, 'Helvetica Neue', Arial, sans-serif; }
-#mainNav.navbar-shrink { background-color: #a0a0a0; }
 #mainNav .navbar-nav .nav-item .nav-link { font-weight: 600; }
 #mainNav .navbar-nav .nav-item .nav-link.active,
 #mainNav .navbar-nav .nav-item .nav-link:hover { color: #e62568; }
 #mainNav .navbar-toggler { background-color: #db004c; }
 
-@media (min-width: 992px) {
-    #mainNav { background-color: rgb(128,128,128,0.5); /* background-color: transparent; */ }
-}
-
 .text-primary { color: #db004c !important; }
 
-header.masthead { background-image: url("../images/banner-museo.jpg"); }
+header.masthead { margin-top: 0; }
 header.masthead .intro-text .intro-lead-in { font-size: 32px; }
 header.masthead .intro-text .intro-heading { font-size: 48px; }
 
@@ -28,25 +32,34 @@ header.masthead .intro-text .intro-heading { font-size: 48px; }
 
 .article-header,
 .page-header {
-    padding-top: 160px;
+    padding-top: 130px;
     padding-bottom: 4px;
-    background-color: #808080;
+    background-color: #c0c0c0;
     margin-bottom: 40px;
 }
-.page-header-title {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: #decad1;
+h2.article-header-title,
+h2.page-header-title {
+    margin-top: 8px;
+    margin-bottom: 16px;
 }
 
 #quienessomos { background-color: #fff; }
 #calendario { background-color: #f6e7ec; }
-#procesos { background-color: #fff; }
 #documentacion { background-color: #ddd; }
+#procesos { background-color: #f6e7ec; }
 #saladeprensa { background-color: #fff; }
+
+.page-section h2.section-heading { font-size: 28px; margin-top: 15px; }
+h3.service-heading { font-size: 24px; }
+h4.service-heading { font-size: 20px; }
+h5.service-heading { font-size: 16px; }
 
 .quienes-somos-box { margin-bottom: 20px; }
 .quienes-somos-image { width: 160px; height: 160px; }
+
+.saladeprensa-item { margin-bottom: 32px; }
+.saladeprensa-title,
+.saladeprensa-date { margin-bottom: 0.2em; }
 
 .footer { margin-top: 40px; background-color: #e0e0e0; }
 .footer span.copyright { line-height: 1.5em; }
@@ -55,41 +68,56 @@ ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover   { background-color: #e62568; }
 
-.page-section h2.section-heading { font-size: 28px; }
-h3.service-heading { font-size: 24px; }
-h4.service-heading { font-size: 20px; }
-h5.service-heading { font-size: 16px; }
-
-/* Responsive */
-@media only screen and (max-width: 990px) {
-    header.masthead .intro-text .intro-lead-in { font-size: 16px; }
-    header.masthead .intro-text .intro-heading { font-size: 24px; }
-    .page-section h2.section-heading { font-size: 24px; }
-    h3.service-heading { font-size: 18px; }
-    h4.service-heading { font-size: 16px; }
-    h5.service-heading { font-size: 14px; }
-}
-@media only screen and (max-width: 580px) {
-    header.masthead .intro-text .intro-lead-in { font-size: 14px; }
-    header.masthead .intro-text .intro-heading { font-size: 20px; }
-    .page-section h2.section-heading { font-size: 20px; }
-    h3.service-heading { font-size: 16px; }
-    h4.service-heading { font-size: 14px; }
-    h5.service-heading { font-size: 12px; }
-}
-@media only screen and (max-width: 300px) {
-    header.masthead .intro-text .intro-lead-in { font-size: 12px; }
-    header.masthead .intro-text .intro-heading { font-size: 16px; }
-    .page-section h2.section-heading { font-size: 16px; }
-    h3.service-heading { font-size: 13px; }
-    h4.service-heading { font-size: 12px; }
-    h5.service-heading { font-size: 11px; }
-}
-
 ::-moz-selection {
   background: #fcc0d5;
 }
 
 ::selection {
   background: #fcc0d5;
+}
+
+/* Responsive */
+
+@media only screen and (max-width: 990px) {
+    #mainNav { background-color: rgb(176,134,152,1.0); }
+    header.masthead { margin-top: 100px; }
+    header.masthead .intro-text .intro-lead-in { font-size: 16px; }
+    header.masthead .intro-text .intro-heading { font-size: 24px; }
+    h1 { font-size: 24px; }
+    h2 { font-size: 20px; }
+    h3 { font-size: 18px; }
+    h4 { font-size: 16px; }
+    h5 { font-size: 14px; }
+    .page-section h2.section-heading { font-size: 24px; margin-top: 15px; }
+    h3.service-heading { font-size: 18px; }
+    h4.service-heading { font-size: 16px; }
+    h5.service-heading { font-size: 14px; }
+}
+
+@media only screen and (max-width: 580px) {
+    header.masthead .intro-text .intro-lead-in { font-size: 14px; }
+    header.masthead .intro-text .intro-heading { font-size: 20px; }
+    h1 { font-size: 20px; }
+    h2 { font-size: 18px; }
+    h3 { font-size: 16px; }
+    h4 { font-size: 14px; }
+    h5 { font-size: 12px; }
+    .page-section h2.section-heading { font-size: 20px; margin-top: 12px; }
+    h3.service-heading { font-size: 16px; }
+    h4.service-heading { font-size: 14px; }
+    h5.service-heading { font-size: 12px; }
+}
+
+@media only screen and (max-width: 300px) {
+    header.masthead .intro-text .intro-lead-in { font-size: 12px; }
+    header.masthead .intro-text .intro-heading { font-size: 16px; }
+    h1 { font-size: 16px; }
+    h2 { font-size: 14px; }
+    h3 { font-size: 13px; }
+    h4 { font-size: 12px; }
+    h5 { font-size: 11px; }
+    .page-section h2.section-heading { font-size: 16px; margin-top: 8px; }
+    h3.service-heading { font-size: 13px; }
+    h4.service-heading { font-size: 12px; }
+    h5.service-heading { font-size: 11px; }
 }

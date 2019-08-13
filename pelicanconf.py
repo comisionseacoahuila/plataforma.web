@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 SITEURL = 'https://comisionseacoahuila.github.io'
 SITENAME = 'Comisión de Selección del SEA Coahuila'
 SITELOGO = 'theme/images/generic_company.png'
-SITEDESCRIPTION = 'Comisión de Selección del SEA Coahuila'
+SITEDESCRIPTION = 'Comisión de Selección SEA Coahuila'
 SITETWITTER = '@comselcc'
 
 # Autor
