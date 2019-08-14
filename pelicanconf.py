@@ -66,8 +66,11 @@ TIMEZONE = 'America/Mexico_City'
 # Para desarrollo, los vinculos son relativos
 RELATIVE_URLS = True
 
-# Para desarrollo, se desactiva la paginacion
-DEFAULT_PAGINATION = False
+# Paginacion
+DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = 6
+DEFAULT_ORPHANS = 2
+#DEFAULT_PAGINATION = False
 
 # Para desarrollo, no hay cargas desde Internet
 USE_REMOTE_SERVICES = False

@@ -9,6 +9,12 @@ h5 { font-size: 16px; }
 a { color: #db004c; }
 a:hover { color: #e62568; }
 
+a.page-link         { color: #db004c; }
+a.page-link:hover,
+a.page-link:focus   { color: #e62568; }
+a.page-link:active,
+a.page-link:visited { color: #db004c; }
+
 #mainNav { background-color: rgb(176,134,152,0.5); }
 #mainNav.navbar-shrink { background-color: rgb(160,160,160,1.0); }
 
