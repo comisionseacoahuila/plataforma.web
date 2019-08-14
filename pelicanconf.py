@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 # Sitio web https://www.comisionseacoahuila.mx
-SITEURL = 'https://comisionseacoahuila.github.io'
+SITEURL = 'https://comisionseacoahuila.mx'
 SITENAME = 'Comisión de Selección del SEA Coahuila'
 SITELOGO = 'theme/images/generic_company.png'
 SITEDESCRIPTION = 'Comisión de Selección SEA Coahuila'
