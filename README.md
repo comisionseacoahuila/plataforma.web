@@ -7,4 +7,4 @@ Creador del sitio web de la Comisión de Selección del SEA Coahuila hecho con P
 
 Para crear los vínculos a los archivos PDF
 
-    $ find . -name "*.pdf" -printf '[](%P)\n' | sort > list.txt
+    $ find . -name "*.pdf" -printf '[%P](%P)\n' | sort > list.txt
