@@ -18,8 +18,23 @@
     <link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' type='text/css'>
     <link rel="stylesheet" href="/theme/css/agency.min.css">
     <link rel="stylesheet" href="/theme/css/comisionseacoahuila.css">
+{% if USE_REMOTE_SERVICES %}
+{%   include 'google-analytics.html' %}
+{% endif %}
 </head>
 <body id="page-top">
+    <!--
+        Comisión de Selección del SEA Coahuila
+            https://www.comisionseacoahuila.mx/
+        Compartimos el Software Libre que usa esta plataforma web:
+            Python           http://python.org/
+            Pelican          http://getpelican.com/
+        Así como el código abierto:
+            Plataforma web   https://github.com/comisionseacoahuila/plataforma.web
+            Sitio web        https://github.com/comisionseacoahuila/comisionseacoahuila.github.io
+        Contacto:
+            sistemas@seacoahuila.org.mx
+      -->
 {% include 'navigation.html' %}
 {% block content %}{% endblock %}
 {% include 'footer.html' %}
