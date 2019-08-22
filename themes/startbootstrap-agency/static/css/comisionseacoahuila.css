@@ -27,7 +27,7 @@ a.page-link:visited { color: #db004c; }
 
 .text-primary { color: #db004c !important; }
 
-header.masthead { margin-top: 0; }
+header.masthead { margin-top: 0; background-image: none; }
 header.masthead .intro-text .intro-lead-in { font-size: 32px; }
 header.masthead .intro-text .intro-heading { font-size: 48px; }
 

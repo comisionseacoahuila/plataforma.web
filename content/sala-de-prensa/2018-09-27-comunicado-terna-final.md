@@ -1,5 +1,5 @@
 Title: Resultados del proceso de entrevistas a aspirantes
-Slug: 2018-08-27-comunicado-terna-final
+Slug: 2018-09-27-comunicado-terna-final
 Summary: De acuerdo con las reglas de operación y la metodología para la valoración de expedientes y entrevistas, a la conclusión del proceso de entrevistas fueron procesadas las calificaciones asentadas por la y los comisionados en sus hojas individuales de evaluación, procediéndose a su ponderación y sumatoria con las calificaciones de los expedientes.
 Date: 2018-09-27 12:40
 Modified: 2018-09-27 12:40
@@ -28,3 +28,7 @@ Jafia Pacheco                 | 34.50 | 31.94 | 23.28 | 41.58 | 73.53
 La aspirante Ana Olga Rodríguez Betancourt no fue entrevistada por la Comisión porque no acudió a la entrevista debido a que se encuentra en el extranjero en viaje de trabajo del cual dio aviso a la Comisión mediante correo electrónico.
 
 La Comisión reitera la invitación a las organizaciones de la sociedad civil, instituciones educativas, cámaras empresariales, especialistas en la materia, investigadores, periodistas y, en general, a todas las personas interesadas, al Foro de Consulta que tendrá lugar el lunes 1 de octubre, a partir de las 10 de la mañana, en las instalaciones de la Secretaría Ejecutiva del Sistema Anticorrupción.
+
+### Descargar
+
+* [comunicado-terna-final.pdf](comunicado-terna-final.pdf)

@@ -21,3 +21,7 @@ Al respecto Arredondo Sibaja explicó que la Comisión emitió con anterioridad 
 Por lo que respecta a los términos de la convocatoria, los integrantes de la Comisión de Selección informaron que el registro queda abierto desde hoy 15 de agosto y cierra a las 24 horas del 15 de septiembre del presente año, y las inscripciones para participar se realizarán vía electrónica desde el sitio de la Comisión www.comisionseacoahuila.mx.
 
 Explicaron que el procedimiento para el registro, así como los requisitos y calendarización son claramente definidos en la convocatoria, que además de ser difundidos en medios impresos de circulación estatal esta disponible en el mismo sitio de Internet de la Comisión.
+
+### Descargar
+
+* [comunicadocomsel0012018.pdf](comunicadocomsel0012018.pdf)

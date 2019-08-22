@@ -48,3 +48,7 @@ La calificación que aparece en el listado previo corresponde al promedio simple
 De conformidad con la metodología, tras concluir el proceso de revisión de expedientes debe convocarse a entrevistas sólo al 25 por ciento de aspirantes con las calificaciones más altas, pero en todo caso se entrevistará al menos a 10 personas.
 
 No obstante lo anterior, y dado que la calificación de las dos aspirantes que están empatadas en el décimo lugar y quien aparece en el duodécimo lugar difiere en menos del 3 por ciento, la Comisión decidió convocar al proceso de entrevistas a la candidata ubicada en el lugar 12 de la lista.
+
+### Descargar
+
+* [comunicado-seleccionadas-entrevista.pdf](comunicado-seleccionadas-entrevista.pdf)

@@ -29,3 +29,7 @@ Comisión de Selección del Consejo de Participación Ciudadana, del Sistema Ant
     Carlos Alberto Arredondo Sibaja
     csibaja@uadec.edu.mx
     www.comisionseacoahuila.mx
+
+### Descargar
+
+* [convocatoria-foro.pdf](convocatoria-foro.pdf)

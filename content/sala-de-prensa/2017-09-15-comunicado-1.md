@@ -31,3 +31,7 @@ Los integrantes de la Comisión presentes en la rueda de prensa insistieron en l
     (844) 1609929
     csibaja@uadec.edu.mx
     www.comisionseacoahuila.mx
+
+### Descargar
+
+* [comunicado-de-prensa-04.pdf](comunicado-de-prensa-04.pdf)

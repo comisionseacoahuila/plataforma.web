@@ -3,10 +3,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+{% block meta_tags %}{% endblock %}
     <title>{% block title %}{% endblock %}</title>
     <link rel="shortcut icon" type="image/x-icon" href="/theme/images/favicon.ico">
+    <link rel="icon" href="/theme/images/icon-hires.png" sizes="192x192">
+    <link rel="icon" href="/theme/images/icon-normal.png" sizes="128x128">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-76x76.png" sizes="76x76">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-120x120.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-152x152.png" sizes="152x152">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-180x180.png" sizes="180x180">
 {% if FEED_ALL_RSS %}
     <link rel="alternate" href="/feeds/all.rss.xml" type="application/rss+xml" title="{{ SITENAME }}">
 {% endif %}

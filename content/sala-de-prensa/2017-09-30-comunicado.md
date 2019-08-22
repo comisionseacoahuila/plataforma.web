@@ -30,3 +30,7 @@ La toma de protesta de las y los integrantes del primer Consejo de Participació
     Carlos Alberto Arredondo Sibaja
     (844) 1609929
     csibaja@uadec.edu.mx
+
+### Descargar
+
+* [comunicado-de-prensa-12.pdf](comunicado-de-prensa-12.pdf)

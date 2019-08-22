@@ -29,3 +29,6 @@ La Comisión de Selección exhorta a las personas interesadas en asistir a las e
     (844) 1609929
     csibaja@uadec.edu.mx
 
+### Descargar
+
+* [comunicado-de-prensa-07.pdf](comunicado-de-prensa-07.pdf)

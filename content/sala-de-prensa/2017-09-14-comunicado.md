@@ -25,3 +25,7 @@ Igualmente se recuerda que el plazo para entregar expedientes vence a las 24:00 
     (844) 1609929
     csibaja@uadec.edu.mx
     www.comisionseacoahuila.mx
+
+### Descargar
+
+* [comunicado-de-prensa-03.pdf](comunicado-de-prensa-03.pdf)

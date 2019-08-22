@@ -32,3 +32,7 @@ Publicación del listado de candidatas y candidatos seleccionados: 1 de octubre 
     e-mail: csibaja@uadec.edu.mx
     Teléfono: (844) 1609929
     www.comisionseacoahuila.mx (en construcción)
+
+### Descargar
+
+* [comunicado-de-prensa-01.pdf](comunicado-de-prensa-01.pdf)

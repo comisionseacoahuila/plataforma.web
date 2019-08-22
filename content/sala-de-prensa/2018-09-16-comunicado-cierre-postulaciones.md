@@ -49,3 +49,7 @@ Cecilia del Carmen Cardiel Escamilla | Torreón | Licenciada en Diseño Gráfico
 La Comisión destaca el alto perfil profesional de las aspirantes registradas, pues de la totalidad de postulantes, 14 cuentan con algún posgrado y 7 poseen únicamente un título de licenciatura. Dos de las postulantes han obtenido el grado de especialista, diez poseen un titulo de maestría y dos más tienen el grado de doctora, de acuerdo con la revisión preliminar de los expedientes recibidos.
 
 La recepción de los expedientes no implica el cumplimiento de los requisitos de forma previstos en la convocatoria. Por ello, los integrantes de la Comisión realizarán, el próximo martes 18 de septiembre, la revisión individual de los documentos a fin de dictaminar respecto del cumplimiento de los requisitos de forma y definir el calendario de entrevistas.
+
+### Descargar
+
+* [2018-09-16-comunicado-cierre-postulaciones.pdf](2018-09-16-comunicado-cierre-postulaciones.pdf)

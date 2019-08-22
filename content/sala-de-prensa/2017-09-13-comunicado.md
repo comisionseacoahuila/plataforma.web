@@ -22,3 +22,7 @@ El texto hace énfasis en el limitado tiempo que la Comisión tiene para cumplir
     Carlos Alberto Arredondo Sibaja
     (844) 1609929
     csibaja@uadec.edu.mx
+
+### Descargar
+
+* [comunicado-de-prensa-02.pdf](comunicado-de-prensa-02.pdf)

@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 # Sitio web https://www.comisionseacoahuila.mx
 SITEURL = 'https://www.comisionseacoahuila.mx'
 SITENAME = 'Comisión de Selección del SEA Coahuila'
-SITELOGO = 'theme/images/generic_company.png'
+SITELOGO = 'theme/images/logotipo.png'
 SITEDESCRIPTION = 'Comisión de Selección SEA Coahuila'
 SITETWITTER = '@comselcc'
 

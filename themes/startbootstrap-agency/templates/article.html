@@ -2,23 +2,85 @@
 
 {% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
 
+{% block meta_tags %}
+    <meta name="description" content="{{ article.summary|striptags }}">
+    <meta name="keywords" content="{{ [article.tags|join(', '), article.category]|join(', ') }}">
+    <meta name="author" content="{{ article.author.name }}">
+    <meta itemprop="name" content="{{ article.title }}">
+    <meta itemprop="description" content="{{ article.summary|striptags }}">
+    {% if article.image %}
+    <meta itemprop="image" content="/{{ article.url }}{{ article.image }}">
+    {% elif article.preview %}
+    <meta itemprop="image" content="/{{ article.url }}{{ article.preview }}">
+    {% endif %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="{{ SITETWITTER }}">
+    <meta name="twitter:title" content="{{ article.title }}">
+    <meta name="twitter:description" content="{{ article.summary|striptags }}">
+    {% if article.image %}
+    <meta name="twitter:image:src" content="/{{ article.url }}{{ article.image }}">
+    {% elif article.preview %}
+    <meta name="twitter:image:src" content="/{{ article.url }}{{ article.preview }}">
+    {% endif %}
+    <meta property="og:title" content="{{ article.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/{{ article.url }}">
+    {% if article.image %}
+    <meta property="og:image" content="/{{ article.url }}{{ article.image }}">
+    {% elif article.preview %}
+    <meta property="og:image" content="/{{ article.url }}{{ article.preview }}">
+    {% endif %}
+    <meta property="og:description" content="{{ article.summary|striptags }}">
+    <meta property="og:site_name" content="{{ SITENAME }}">
+{% endblock %}
+
 {% block content %}
-<article>
-    <header class="article-header">
+    <article>
+        <header class="article-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="text-uppercase article-header-title">{{ article.title }}</h2>
+                    </div>
+                </div>
+            </div>
+        </header>
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="text-uppercase article-header-title">{{ article.title }}</h2>
+                <div class="col-lg-12">
+                    <script type="application/ld+json">
+                    {
+                        "@context": "http://schema.org",
+                        "@type": "Article",
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "{{ SITENAME }}",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "{{ SITEURL }}/{{ SITELOGO }}"
+                            },
+                            "url": "{{ SITEURL }}"
+                        },
+                        "author": "{{ article.author }}",
+                        "name": "{{ article.title }}",
+                        "headline": "{{ article.title }}",
+                        "description": "{{ article.summary|striptags }}",
+                        "dateCreated": "{{ article.date }}",
+                        "datePublished": "{{ article.date }}",
+                        "dateModified": "{{ article.modified }}",
+                        {% if article.image %}
+                        "image": "{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.image }}",
+                        {% elif article.preview %}
+                        "image": "{{ SITEURL }}/{{ article.category }}/{{ article.slug }}/{{ article.preview }}",
+                        {% else %}
+                        "image": "{{ SITEURL }}/{{ SITELOGO }}",
+                        {% endif %}
+                        "url": "{{ SITEURL }}/{{ article.url }}"
+                    }
+                    </script>
+{{ article.content }}
                 </div>
             </div>
         </div>
-    </header>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-{{ article.content }}
-            </div>
-        </div>
-    </div>
-</article>
+    </article>
 {% endblock %}

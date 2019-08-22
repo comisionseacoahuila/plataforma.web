@@ -26,3 +26,9 @@ Producto del encuentro, se establecieron diversos acuerdos que implican, entre o
 * Agendar reuniones adicionales, durante y después del proceso de selección 2018, con el propósito de evaluar el desahogo de las distintas etapas de la convocatoria.
 
 Quienes acudieron a la reunión en representación de ambas partes expresaron su satisfacción por el hecho de haber establecido un puente de comunicación que permita, en lo sucesivo, procesar las observaciones de la sociedad civil organizada con la intención de incorporarlas a los lineamientos de actuación de la Comisión.
+
+### Descargar
+
+* [2018-08-29-alianza-anticorrupcion.pdf](2018-08-29-alianza-anticorrupcion.pdf)
+* [2018-09-03-respuesta.pdf](2018-09-03-respuesta.pdf)
+* [2018-09-07-alianza-anticorrupcion-coahuila.pdf](2018-09-07-alianza-anticorrupcion-coahuila.pdf)

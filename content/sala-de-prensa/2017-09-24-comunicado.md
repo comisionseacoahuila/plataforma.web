@@ -65,3 +65,7 @@ Las entrevistas también serán transmitidas en vivo a través de internet. La C
     (844) 1609929
     csibaja@uadec.edu.mx
     www.comisionseacoahuila.mx
+
+### Descargar
+
+* [comunicado-de-prensa-09.pdf](comunicado-de-prensa-09.pdf)
