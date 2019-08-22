@@ -19,7 +19,7 @@ PATH = 'content'
 ARTICLE_PATHS = ['sala-de-prensa']
 
 # Directorios que tienen páginas fijas, no artículos
-PAGE_PATHS = ['3de3', 'documentacion', 'procesos', 'quienes-somos']
+PAGE_PATHS = ['3de3', 'documentacion', 'licencias', 'procesos', 'quienes-somos']
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
