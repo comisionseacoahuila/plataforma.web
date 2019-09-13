@@ -1,6 +1,6 @@
 Title: Dictamen de Desechamiento 2019
 Slug: 2019-09-13-comunicado-dictamen-desechamiento
-Summary: Al cierre del período de recepción de expedientes de aspirantes a integrar el Consejo de Participación Ciudadana, del Sistema Anticorrupción, se recibieron 17 expedientes de aspirantes interesados en ocupar la vacante que se producirá en el CPC a partir del próximo 5 de octubre.
+Summary: Los integrantes de la Comisión de Selección han revisado de los expedientes recibidos en respuesta a la convocatoria expedida el 14 de agosto de 2019, con el propósito de recibir postulaciones de aspirantes a integrar el Consejo de Participación Ciudadana.
 Date: 2019-09-13 15:12
 Modified: 2019-09-13 15:12
 Tags: comunicados
