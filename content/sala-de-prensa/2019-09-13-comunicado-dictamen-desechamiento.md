@@ -2,7 +2,7 @@ Title: Dictamen de Desechamiento 2019
 Slug: 2019-09-13-comunicado-dictamen-desechamiento
 Summary: Los integrantes de la Comisión de Selección han revisado de los expedientes recibidos en respuesta a la convocatoria expedida el 14 de agosto de 2019, con el propósito de recibir postulaciones de aspirantes a integrar el Consejo de Participación Ciudadana.
 Date: 2019-09-13 15:12
-Modified: 2019-09-13 15:12
+Modified: 2019-09-13 17:28
 Tags: comunicados
 
 
@@ -22,11 +22,13 @@ Los integrantes de la Comisión de Selección, previa revisión de los expedient
 
 **Tercero:** en sesión celebrada el día 9 de abril de 2018, la Comisión aprobó el “Acuerdo de la Comisión de Selección del Consejo de Participación Ciudadana, del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, por el que se establecen los criterios para garantizar, de forma permanente, la integración del Consejo de Participación Ciudadana con acuerdo a la regla de paridad de género”, mismo que fue publicado en el Periódico Oficial del Gobierno del Estado número 48, de fecha 15 de junio de 2018.
 
-**Cuarto:** de conformidad con lo dispuesto en la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza y el acuerdo señalado en el considerado anterior, el día 14 de agosto de 2019 fue expedida la convocatoria para recibir postulaciones de candidatos a integrar el Consejo de Participación Ciudadana, del Sistema Anticorrupción de Coahuila de Zaragoza, estableciéndose en ésta el período del día 14 de agosto al 9 de septiembre para recibir expedientes de aspirantes, disponiéndose para ello una plataforma electrónica que permitiera a los interesadas remitir vía internet sus expedientes. Los términos de la convocatoria fueron difundidos a través de una conferencia de prensa realizada el 14 de agosto en la ciudad de Saltillo y posteriormente a través de entrevistas concedidas a diferentes medios de comunicación. Adicionalmente, la convocatoria fue publicada, mediante inserción pagada, en diversos periódicos de circulación en el Estado y a través de las páginas electrónicas de las instituciones que integran el Sistema Anticorrupción de Coahuila.
+**Cuarto:** de conformidad con lo dispuesto en la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza y el acuerdo señalado en el considerado anterior, el día 14 de agosto de 2019 fue expedida la convocatoria para recibir postulaciones de candidatos a integrar el Consejo de Participación Ciudadana, del Sistema Anticorrupción de Coahuila de Zaragoza, estableciéndose en ésta el período del día 14 de agosto al 9 de septiembre para recibir expedientes de aspirantes, disponiéndose para ello una plataforma electrónica que permitiera a los interesados remitir vía internet sus expedientes. Los términos de la convocatoria fueron difundidos a través de una conferencia de prensa realizada el 14 de agosto en la ciudad de Saltillo y posteriormente a través de entrevistas concedidas a diferentes medios de comunicación. Adicionalmente, la convocatoria fue publicada, mediante inserción pagada, en diversos periódicos de circulación en el Estado y a través de las páginas electrónicas de las instituciones que integran el Sistema Anticorrupción de Coahuila.
 
-**Quinto:** el día 13 de agosto de 2019, el pleno de la Comisión de Selección aprobó diferentes modificaciones a la “Metodología para la valoración de los expedientes presentados por las y los candidatos a integrar el Consejo de Participación Ciudadana del SEA Coahuila”, disponiendo su publicación en la página electrónica de la Comisión. Previo a la aprobación de las modificaciones referidas, la Comisión convocó a los representantes de las organizaciones de la sociedad civil, así como al público interesado, a emitir observaciones sobre dicha metodología, así como a discutir dichas observaciones de forma pública para lo cual se celebró una reunión, en la ciudad de Torreón, el día 7 de agosto de 2019.
+**Quinto:** la convocatoria -así como las reglas de operación de la propia Comisión y la Metodología para la evaluación de expedientes y entrevistas- fue elaborada a partir de los documentos que con los mismos propósitos elaboró en su momento la Comisión de Selección del Sistema Nacional Anticorrupción y que se encuentran compilados en el “Libro Blanco” que esa misma Comisión elaboró, a la conclusión del proceso de designación del Comité de Participación Ciudadana del SNA, en el año 2017.
 
-**Sexto:** al cierre del plazo de recepción de candidaturas, la Comisión de Selección recibió 17 expedientes de aspirantes a integrar el Consejo de Participación Ciudadana. La relación de las personas que acudieron a la convocatoria, en el orden en el cual remitieron su documentación, es la siguiente:
+**Sexto:** el día 13 de agosto de 2019, el pleno de la Comisión de Selección aprobó diferentes modificaciones a la “Metodología para la valoración de los expedientes presentados por las y los candidatos a integrar el Consejo de Participación Ciudadana del SEA Coahuila”, disponiendo su publicación en la página electrónica de la Comisión. Previo a la aprobación de las modificaciones referidas, la Comisión convocó a los representantes de las organizaciones de la sociedad civil, así como al público interesado, a emitir observaciones sobre dicha metodología, así como a discutir dichas observaciones de forma pública para lo cual se celebró una reunión, en la ciudad de Torreón, el día 7 de agosto de 2019.
+
+**Séptimo:** al cierre del plazo de recepción de candidaturas, la Comisión de Selección recibió 17 expedientes de aspirantes a integrar el Consejo de Participación Ciudadana. La relación de las personas que acudieron a la convocatoria, en el orden en el cual remitieron su documentación, es la siguiente:
 
 No. | Nombres
 ---|---
@@ -48,17 +50,17 @@ No. | Nombres
 16 | Óscar Alberto García De La Garza
 17 | Rodrigo González Morales
 
-**Séptimo:** los días martes 10, miércoles 11 y jueves 12 de septiembre, el pleno de la Comisión de Selección sesionó de forma permanente para realizar la evaluación documental de los expedientes recibidos y, de conformidad con la metodología aprobada para el efecto, verificar en primera instancia el cumplimiento de los requisitos de forma, de manera que fueran desechados aquellos expedientes que no cumplieran con los requisitos establecidos en la convocatoria y/o en la Ley, y elaborar el dictamen a que se refiere el inciso d) del proceso para el análisis de los expedientes, de la metodología y que a la letra dice:
+**Octavo:** los días martes 10, miércoles 11 y jueves 12 de septiembre, el pleno de la Comisión de Selección sesionó de forma permanente para realizar la evaluación documental de los expedientes recibidos y, de conformidad con la metodología aprobada para el efecto, verificar en primera instancia el cumplimiento de los requisitos de forma, de manera que fueran desechados aquellos expedientes que no cumplieran con los requisitos establecidos en la convocatoria y/o en la Ley, y elaborar el dictamen a que se refiere el inciso d) del proceso para el análisis de los expedientes, de la metodología y que a la letra dice:
 
 > d) Para todos los casos en los cuales no se admita un expediente, se elaborará un sólo proyecto de acuerdo de desechamiento, debidamente fundado y motivado, que se someterá al Pleno de la Comisión y que, una vez aprobado, deberá ser público.
 
-**Octavo:** Para la valoración de los requisitos esenciales, la Comisión decidió adoptar un criterio garantista de interpretación de la norma, entendido éste como:
+**Noveno:** para la valoración de los requisitos esenciales, la Comisión decidió adoptar un criterio garantista de interpretación de la norma, entendido éste como:
 
 > a) La vocación de analizar el cumplimiento de los requisitos de carácter meramente administrativo desde una perspectiva flexible y no rígida, en aquellos casos en los cuales, del análisis integral del expediente, se desprenda la existencia de elementos que justifiquen la adopción de este criterio.
 >
 > b) La realización de todas aquellas acciones materiales, al alcance de la Comisión, tendientes a facilitar a los candidatos el perfeccionamiento de sus expedientes y/o la aclaración de las dudas surgidas a partir de los elementos que, en adición a los documentos del expediente, fueran valorados por la Comisión, antes de proceder al desechamiento de los mismos.
 
-**Noveno:** con el propósito de contar con información adicional para la verificación documental de los expedientes, así como para constatar el cumplimiento de los requisitos esenciales, en especial los relativos a la posible calidad de miembro, adherente o afiliado a algún partido político; el haber sido postulado a un cargo de elección popular; o el poseer título profesional, la Comisión consultó las bases de datos públicas del Instituto Nacional Electoral, el Instituto Electoral de Coahuila, los distintos partidos políticos nacionales y estatales, así como del Registro Nacional de Profesiones de la Secretaría de Educación Pública.
+**Décimo:** con el propósito de contar con información adicional para la verificación documental de los expedientes, así como para constatar el cumplimiento de los requisitos esenciales, en especial los relativos a la posible calidad de miembro, adherente o afiliado a algún partido político; el haber sido postulado a un cargo de elección popular; o el poseer título profesional, la Comisión consultó las bases de datos públicas del Instituto Nacional Electoral, el Instituto Electoral de Coahuila, los distintos partidos políticos nacionales y estatales, así como del Registro Nacional de Profesiones de la Secretaría de Educación Pública.
 
 **Décimo primero:** de la revisión documental de los expedientes se desprende que cuatro de las personas que acudieron a la convocatoria incumplen uno o más de los requisitos señalados en el artículo 34 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza para ser integrante del Consejo de Participación Ciudadana, razón por la cual procede el desechamiento, de conformidad con lo establecido en el inciso a) del proceso para el análisis de los expedientes, de la metodología aprobada por esta Comisión y cuya parte sustantiva a la letra dice:
 
@@ -97,15 +99,14 @@ En el caso específico del ciudadano Guillermo Antonio Flores Méndez, la Comisi
 En adición a lo anterior, el hecho de que el ciudadano Guillermo Antonio Flores Méndez hubiera sido sancionado por omitir la presentación del informe de ingresos y gastos a que estaba obligado, quebranta lo preceptuado en el artículo 5 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, que a la letra dice:
 
 > Artículo 5. Los principios rectores que rigen el servicio público son los siguientes: legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad y competencia por mérito.
+>
 > Los Entes Públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del estado en su conjunto, y **la actuación ética y responsable de cada servidor público** (énfasis añadido).
 
 En virtud de lo anterior, procede el desechamiento del expediente señalado en el presente inciso.
 
 B. En el caso del ciudadano **Samuel Cepeda Tovar,** de la revisión de su expediente se desprende que su título profesional fue expedido el día 26 de mayo del año 2010, circunstancia que actualiza la hipótesis contenida en el numeral IV del artículo 34 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, que establece como requisito para ser seleccionado al cargo de Consejero “poseer al día de la designación, una antigüedad mínima de diez años, con título profesional de nivel de licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta ley que le permitan el desempeño de sus funciones”. Dado que el plazo mínimo requerido por la ley para cumplir con este requisito de antigüedad del título profesional se cumple hasta el día 26 de mayo del año 2020, procede el desechamiento del expediente señalado en el presente inciso.
 
-C. En el caso del ciudadano **Mauricio Díaz García,** de la revisión de su expediente, así como de las constancias que obras en el archivo de la Comisión, se desprende que participó en el proceso de selección convocado por esta Comisión en el año 2017 y en aquella ocasión su expediente fue desechado debido a que, durante el proceso electoral local 2016-2017 se desempeñó como representante propietario, ante el Consejo General del Instituto Electoral de Coahuila, del candidato independiente a Gobernador del Estado, Javier Guerrero García.
-
-En ocasión de dicha postulación, la Comisión de Selección sostuvo que tal circunstancia actualiza, de forma análoga, las hipótesis contenidas en los numerales VIII y IX del artículo 34 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza que establecen como impedimentos para ser seleccionado al cargo de Consejero el “desempeñar” o “haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación”; así como “haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria”.
+C. En el caso del ciudadano **Mauricio Díaz García,** de la revisión de su expediente, así como de las constancias que obras en el archivo de la Comisión, se desprende que participó en el proceso de selección convocado por esta Comisión en el año 2017 y en aquella ocasión su expediente fue desechado debido a que, durante el proceso electoral local 2016-2017 se desempeñó como representante propietario, ante el Consejo General del Instituto Electoral de Coahuila, del candidato independiente a Gobernador del Estado, Javier Guerrero García. En ocasión de dicha postulación, la Comisión de Selección sostuvo que tal circunstancia actualiza, de forma análoga, las hipótesis contenidas en los numerales VIII y IX del artículo 34 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza que establecen como impedimentos para ser seleccionado al cargo de Consejero el “desempeñar” o “haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación”; así como “haber sido miembro, adherente o afiliado a algún partido político, durante los cuatro años anteriores a la fecha de emisión de la convocatoria”.
 
 Lo anterior porque, a juicio de esta Comisión, “el propósito de la norma que impide a los miembros, adherentes, afiliados o dirigentes nacionales o estatales de los partidos políticos acceder a la posición de miembros del Consejo de Participación Ciudadana es el de imponerle una carga a quien, de forma voluntaria y en ejercicio de sus derechos políticos, ha decidido suscribirse a una ideología política y desde esa posición participar en la lucha por la conquista del poder público.
 
@@ -115,7 +116,7 @@ Al respecto resulta conveniente señalar que el criterio sostenido por la Comisi
 
 En virtud de lo anterior, y dado que se trata exactamente de los mismos hechos, la Comisión ha decidido sostener su criterio y declarar el desechamiento del expediente señalado en el presente inciso.
 
-D. En el caso del ciudadano **Rodrigo González Morales,** de la revisión de su expediente, así como de la documentación pública que se encuentra disponible en la página web del Instituto Electoral de Coahuila, se desprende que durante el proceso electoral local ordinario 2016-2017, fue inscrito como candidato a regidor suplente en la planilla postulada por la “Coalición por un Coahuila Seguro”, integrada por los partidos Revolucionario Institucional, Verde Ecologista de México, Nueva Alianza, Socialdemócrata Independiente, Joven, de la Revolución Coahuilense y Campesino Popular5, circunstancia que actualiza la hipótesis contenida en el numeral VII del artículo 34 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, mismo que establece como impedimento para ser integrante del Consejo de Participación Ciudadana, el “haber sido registrado como candidato”, o el “haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación”, razón por la cual procede el desechamiento del expediente señalado en el presente inciso.
+D. En el caso del ciudadano **Rodrigo González Morales,** de la revisión de su expediente, así como de la documentación pública que se encuentra disponible en la página web del Instituto Electoral de Coahuila, se desprende que durante el proceso electoral local ordinario 2016-2017, fue inscrito como candidato a regidor suplente en la planilla postulada por la “Coalición por un Coahuila Seguro”, integrada por los partidos Revolucionario Institucional, Verde Ecologista de México, Nueva Alianza, Socialdemócrata Independiente, Joven, de la Revolución Coahuilense y Campesino Popular (5), circunstancia que actualiza la hipótesis contenida en el numeral VII del artículo 34 de la Ley del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, mismo que establece como impedimento para ser integrante del Consejo de Participación Ciudadana, el “haber sido registrado como candidato”, o el “haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación”, razón por la cual procede el desechamiento del expediente señalado en el presente inciso.
 
 **Segundo:** Comuníquese la presente resolución, vía correo electrónico, a las direcciones electrónicas proporcionadas por los ciudadanas cuyos expedientes han sido desechados, haciéndoles saber además que, en los términos del artículo 4, numeral XII, de la Ley de Procedimiento Administrativo del Estado de Coahuila de Zaragoza, el expediente respectivo puede ser consultado en las oficinas de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila, ubicada en Bulevar Luis Donaldo Colosio #703, tercer piso, Fracc. Valle Real, en la Ciudad de Saltillo, Coahuila.
 
@@ -125,21 +126,24 @@ D. En el caso del ciudadano **Rodrigo González Morales,** de la revisión de su
 
 Saltillo, Coahuila. Septiembre 13 de 2019
 
-Por la Comisión de Selección del Consejo de Participación Ciudadana, del
-Sistema Anticorrupción del Estado de Coahuila de Zaragoza:
+Por la Comisión de Selección del Consejo de Participación Ciudadana, del Sistema Anticorrupción del Estado de Coahuila de Zaragoza:
 
 * Luis Fernando García Abusaíd
 * Ana Cecilia Mata Rodríguez
-* Eiko Gavaldón Oseki
 * Jesús María Ramón Aguirre
-* Jesús Contreras García
 * Carlos Alberto Arredondo Sibaja
+* Eiko Gavaldón Oseki
+* Jesús Contreras García
 * Héctor Alejandro Gil Müller
 
 ---
 
-1. La documentación relativa a dicha sesión fue consultada en la página electrónica del INE www.ine.mx, en [este apartado](https://www.ine.mx/sesion-extraordinaria-del-consejo-general-14-febrero-2018/).
+### Notas
+
+1. La documentación relativa a dicha sesión fue consultada en la página electrónica del INE www.ine.mx, en el apartado [https://www.ine.mx/sesion-extraordinaria-del-consejo-general-14-febrero-2018/](https://www.ine.mx/sesion-extraordinaria-del-consejo-general-14-febrero-2018/)
 2. Resolución del Consejo General del INE, INE/CG89/2018, página 54.
 3. Resolución del Consejo General del INE, INE/CG89/2018, página 55.
 4. Resolutivo Primero, inciso D, del dictamen de desechamiento de la Comisión de Selección, correspondiente al proceso de selección del año 2017.
-5. El documento que contiene el listado de integrantes de la planilla registrada puede consultarse en la [esta dirección electrónica.](http://www.iec.org.mx/v1/archivos//candidatos/ayuntamiento//TORRE%C3%93N.pdf)
+5. El documento que contiene el listado de integrantes de la planilla registrada puede consultarse en la siguiente dirección electrónica:
+[http://www.iec.org.mx/v1/archivos//candidatos/ayuntamiento//TORRE%C3%93N.pdf](http://www.iec.org.mx/v1/archivos//candidatos/ayuntamiento//TORRE%C3%93N.pdf)
+
