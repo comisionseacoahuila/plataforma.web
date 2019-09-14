@@ -6,10 +6,6 @@ Modified: 2019-09-13 17:28
 Tags: comunicados
 
 
-### Descargar
-
-* [dictamen-desechamiento-2019.pdf](dictamen-desechamiento-2019.pdf)
-
 **Dictamen de la Comisión de Selección del Consejo de Participación Ciudadana, del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, por el que se desechan los expedientes de los aspirantes a integrar el Consejo de Participación Ciudadana que incumplieron alguno de los requisitos esenciales de la Convocatoria**
 
 Los integrantes de la Comisión de Selección, previa revisión de los expedientes recibidos en respuesta a la convocatoria expedida el 14 de agosto de 2019, con el propósito de recibir postulaciones de aspirantes a integrar el Consejo de Participación Ciudadana y
@@ -147,3 +143,8 @@ Por la Comisión de Selección del Consejo de Participación Ciudadana, del Sist
 5. El documento que contiene el listado de integrantes de la planilla registrada puede consultarse en la siguiente dirección electrónica:
 [http://www.iec.org.mx/v1/archivos//candidatos/ayuntamiento//TORRE%C3%93N.pdf](http://www.iec.org.mx/v1/archivos//candidatos/ayuntamiento//TORRE%C3%93N.pdf)
 
+---
+
+### Descargar
+
+* [dictamen-desechamiento-2019.pdf](dictamen-desechamiento-2019.pdf)

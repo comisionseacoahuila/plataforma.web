@@ -6,10 +6,6 @@ Modified: 2019-09-13 16:34
 Tags: comunicados
 
 
-### Descargar
-
-* [comunicado-13-sept-2019.pdf](comunicado-13-sept-2019.pdf)
-
 **Comisión de Selección del Consejo de Participación Ciudadana, del Sistema Anticorrupción del Estado de Coahuila de Zaragoza**
 
 ### Comunicado
@@ -41,3 +37,7 @@ Posición | Nombre | Calificación promedio en puntos
 En atención a las reglas de operación de la Comisión, así como a la metodología para la evaluación de expedientes y entrevistas, y dado que no existe empate en la décima posición y la diferencia entre la décima y la undécima posiciones es superior a dos puntos porcentuales, la Comisión citará a entrevistas únicamente a los candidatos que se encuentran en los 10 primeros lugares.
 
 Las entrevistas tendrán lugar en la ciudad de Saltillo, el día 18 de septiembre, en las oficinas de la Secretaría Ejecutiva del Sistema Anticorrupción del Estado de Coahuila de Zaragoza, a partir de las 9:00 de la mañana y podrán ser seguida en vivo a través de internet.
+
+### Descargar
+
+* [comunicado-13-sept-2019.pdf](comunicado-13-sept-2019.pdf)
