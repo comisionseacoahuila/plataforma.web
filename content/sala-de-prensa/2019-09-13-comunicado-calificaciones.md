@@ -2,7 +2,7 @@ Title: Calificaciones 2019
 Slug: 2019-09-13-comunicado-calificaciones
 Summary: Listado de calificaciones promedio de los aspirantes a integrar el Consejo de Participación Ciudadana, del Sistema Anticorrupción.
 Date: 2019-09-13 16:34
-Modified: 2019-09-13 16:34
+Modified: 2019-09-15 08:24
 Tags: comunicados
 
 
@@ -41,3 +41,4 @@ Las entrevistas tendrán lugar en la ciudad de Saltillo, el día 18 de septiembr
 ### Descargar
 
 * [comunicado-13-sept-2019.pdf](comunicado-13-sept-2019.pdf)
+* [metodologia-para-valoracion-expedientes-2019.pdf](metodologia-para-valoracion-expedientes-2019.pdf)
