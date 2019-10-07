@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-# Sitio web https://www.comisionseacoahuila.mx
+# Sitio web
 SITEURL = 'https://www.comisionseacoahuila.mx'
 SITENAME = 'Comisión de Selección del SEA Coahuila'
 SITELOGO = 'theme/images/logotipo.png'
