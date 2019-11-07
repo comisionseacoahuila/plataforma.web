@@ -8,6 +8,7 @@ SITENAME = 'Comisión de Selección del SEA Coahuila'
 SITELOGO = 'theme/images/logotipo.png'
 SITEDESCRIPTION = 'Comisión de Selección SEA Coahuila'
 SITETWITTER = '@comselcc'
+SITEKEYWORDS = 'Comisión, Selección, Consejero, Participación, Ciudadana, Anticorrupción, Coahuila'
 
 # Autor
 AUTHOR = 'webmaster'
