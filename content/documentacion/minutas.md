@@ -2,7 +2,7 @@ Title: Minutas
 Slug: minutas
 Summary: Minutas.
 Date: 2019-08-09 08:54
-Modified: 2019-08-09 08:54
+Modified: 2020-08-09 08:54
 
 
 * [Minuta 1](minuta-01.pdf)
@@ -11,3 +11,5 @@ Modified: 2019-08-09 08:54
 * [Minuta 4](minuta-04.pdf)
 * [Minuta 5](minuta-05.pdf)
 * [Minuta 6 - Relación de entrevistas](minuta-06.pdf)
+* [Minuta 7](minuta-07.pdf)
+* [Minuta 8](minuta-08.pdf)
