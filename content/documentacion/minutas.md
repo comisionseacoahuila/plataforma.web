@@ -12,7 +12,7 @@ Modified: 2020-08-09 08:54
 * [Minuta 3](2021/minuta-03.pdf)
 * [Minuta 4](2021/minuta-04.pdf)
 * [Minuta 5](2021/minuta-05.pdf)
-
+* [Minuta 6](2021/minuta-6.pdf)
 
 ### 2020
 
