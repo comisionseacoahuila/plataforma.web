@@ -1,3 +1,8 @@
 .directory
 __pycache__
 *.pyc
+develop_server.sh
+output
+Makefile
+venv/
+.bashrc
